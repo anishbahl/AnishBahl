@@ -1,7 +1,3 @@
-Here's a personalized GitHub README based on your resume:
-
----
-
 # Hi, I'm Anish Bahl 👋
 
 ## ⭐️ About Me:
